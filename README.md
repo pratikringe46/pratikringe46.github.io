@@ -1,7 +1,7 @@
 
 ## About me
 
-<img src="https://github.com/pratikringe46/pratikringe46.github.io/blob/main/PHOTO.jpg" height=300px width= 250px>
+<img src ="https://github.com/pratikringe46/pratikringe46.github.io/blob/main/PHOTO.jpg" alt="Profile photo" height="300px" width= "250px">
 
 
 Hi there! I am Pratik. I am an *Undergraduate student* ( Mathematics & Computing) at **[IIT Goa](https://iitgoa.ac.in/)**. I am interested in Programming and Web Development.
